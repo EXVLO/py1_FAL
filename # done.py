@@ -2,3 +2,4 @@
 # added smth
 print("Hello, World")
 print("GUGA")
+print("GUGU")
