@@ -43,6 +43,7 @@ def remove_task(tasks):
 
 def main():
     tasks = load_tasks()
+    # print(os.path.abspath("tasks.txt"))
     while True:
         print("=== TO-DO LIST ===")
         print("1. View tasks")
